@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning and developing Android
 - 💬 Ask me about Kotlin, Android
--->
 
 
 <h3 align="left">Connect with me:</h3>
