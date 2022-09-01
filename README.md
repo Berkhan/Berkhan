@@ -19,8 +19,7 @@
 <br/>
   
   
-<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berkhan)](https://github.com/anuraghazra/github-readme-stats)</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Berkhan&show_icons=true&locale=en" alt="Berkhan" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berkhan)](https://github.com/anuraghazra/github-readme-stats)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkhan&show_icons=true&locale=en&layout=compact"/></p>
 
   
